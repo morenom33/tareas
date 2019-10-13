@@ -2,7 +2,7 @@
    {
       "partido":"PP",
       "mediaAutoubicacion":7.09,
-      "votantes":2509,
+      "votantes":3509,
       "nsnc":302
    },
    {
