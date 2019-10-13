@@ -1,27 +1,72 @@
 [
   {
     "PRODUCTOS": 5,
-    "VENTAS": 5.5,
-    "PARTICIPACION": 0.03
+    "VENTAS": 5500,
+    "PARTICIPACION": 1
   },
   {
     "PRODUCTOS": 14,
-    "VENTAS": 12.2,
-    "PARTICIPACION": 0.12
+    "VENTAS": 12200,
+    "PARTICIPACION": 2
   },
   {
     "PRODUCTOS": 20,
-    "VENTAS": 60,
-    "PARTICIPACION": 0.33
+    "VENTAS": 60000,
+    "PARTICIPACION": 11
   },
   {
     "PRODUCTOS": 18,
-    "VENTAS": 24.4,
-    "PARTICIPACION": 0.1
+    "VENTAS": 24400,
+    "PARTICIPACION": 5
+  },
+  {
+    "PRODUCTOS": 10,
+    "VENTAS": 8714,
+    "PARTICIPACION": 2
+  },
+  {
+    "PRODUCTOS": 12,
+    "VENTAS": 36000,
+    "PARTICIPACION": 7
+  },
+  {
+    "PRODUCTOS": 13,
+    "VENTAS": 17622,
+    "PARTICIPACION": 3
+  },
+  {
+    "PRODUCTOS": 52,
+    "VENTAS": 45314,
+    "PARTICIPACION": 9
+  },
+  {
+    "PRODUCTOS": 36,
+    "VENTAS": 108000,
+    "PARTICIPACION": 21
+  },
+  {
+    "PRODUCTOS": 8,
+    "VENTAS": 10844,
+    "PARTICIPACION": 3
+  },
+  {
+    "PRODUCTOS": 32,
+    "VENTAS": 27886,
+    "PARTICIPACION": 5
+  },
+  {
+    "PRODUCTOS": 25,
+    "VENTAS": 75000,
+    "PARTICIPACION": 14
+  },
+  {
+    "PRODUCTOS": 43,
+    "VENTAS": 58289,
+    "PARTICIPACION": 11
   },
   {
     "PRODUCTOS": 22,
-    "VENTAS": 32,
-    "PARTICIPACION": 0.42
+    "VENTAS": 32000,
+    "PARTICIPACION": 6
   }
 ]
