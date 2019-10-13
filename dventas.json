@@ -2,26 +2,26 @@
   {
     "PRODUCTOS": 5,
     "VENTAS": 5.5,
-    "PARTICIPACION": 0.03
+    "PARTICIPACION": 3
   },
   {
     "PRODUCTOS": 14,
     "VENTAS": 12.2,
-    "PARTICIPACION": 0.12
+    "PARTICIPACION": 12
   },
   {
     "PRODUCTOS": 20,
     "VENTAS": 60,
-    "PARTICIPACION": 0.33
+    "PARTICIPACION": 33
   },
   {
     "PRODUCTOS": 18,
     "VENTAS": 24.4,
-    "PARTICIPACION": 0.1
+    "PARTICIPACION": 1
   },
   {
     "PRODUCTOS": 22,
     "VENTAS": 32,
-    "PARTICIPACION": 0.42
+    "PARTICIPACION": 42
   }
 ]
